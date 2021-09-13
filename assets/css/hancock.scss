@@ -1,0 +1,15 @@
+@import './variables';
+
+// Then import Bootstrap an BootstrapVue SCSS files (order is important)
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+
+// @import './base';
+// @import './themes/default-theme';
+// @import './themes/white-theme';
+
+// small
+// @media (min-width: 640px)
+
+// large
+// @media (min-width: 1024px)
